@@ -1,0 +1,55 @@
+class Images{
+  Images._();
+   static const images_path =[
+    "http://www.andiwiniosapps.in/holi_message/holi_images/1.jpg",
+    "http://www.andiwiniosapps.in/holi_message/holi_images/2.jpg",
+    "http://www.andiwiniosapps.in/holi_message/holi_images/3.jpg",
+    "http://www.andiwiniosapps.in/holi_message/holi_images/4.jpg",
+    "http://www.andiwiniosapps.in/holi_message/holi_images/5.jpg",
+    "http://www.andiwiniosapps.in/holi_message/holi_images/6.jpg",
+    "http://www.andiwiniosapps.in/holi_message/holi_images/7.jpg",
+    "http://www.andiwiniosapps.in/holi_message/holi_images/8.jpg",
+    "http://www.andiwiniosapps.in/holi_message/holi_images/9.jpg",
+    "http://www.andiwiniosapps.in/holi_message/holi_images/10.jpg",
+    "http://www.andiwiniosapps.in/holi_message/holi_images/11.jpg",
+    "http://www.andiwiniosapps.in/holi_message/holi_images/12.jpg",
+    "http://www.andiwiniosapps.in/holi_message/holi_images/13.jpg",
+    "http://www.andiwiniosapps.in/holi_message/holi_images/14.jpg",
+    "http://www.andiwiniosapps.in/holi_message/holi_images/15.jpg",
+    "http://www.andiwiniosapps.in/holi_message/holi_images/16.jpg",
+    "http://www.andiwiniosapps.in/holi_message/holi_images/17.jpg",
+    "http://www.andiwiniosapps.in/holi_message/holi_images/18.jpg",
+    "http://www.andiwiniosapps.in/holi_message/holi_images/19.jpg",
+    "http://www.andiwiniosapps.in/holi_message/holi_images/20.jpg",
+    "http://www.andiwiniosapps.in/holi_message/holi_images/21.jpg",
+    "http://www.andiwiniosapps.in/holi_message/holi_images/22.jpg",
+    "http://www.andiwiniosapps.in/holi_message/holi_images/23.jpg",
+    "http://www.andiwiniosapps.in/holi_message/holi_images/24.jpg",
+    "http://www.andiwiniosapps.in/holi_message/holi_images/25.jpg",
+    "http://www.andiwiniosapps.in/holi_message/holi_images/26.jpg",
+    "http://www.andiwiniosapps.in/holi_message/holi_images/27.jpg",
+    "http://www.andiwiniosapps.in/holi_message/holi_images/28.jpg",
+    "http://www.andiwiniosapps.in/holi_message/holi_images/29.jpg",
+    "http://www.andiwiniosapps.in/holi_message/holi_images/30.jpg",
+    "http://www.andiwiniosapps.in/holi_message/holi_images/31.jpg",
+    "http://www.andiwiniosapps.in/holi_message/holi_images/32.jpg",
+    "http://www.andiwiniosapps.in/holi_message/holi_images/33.jpg",
+    "http://www.andiwiniosapps.in/holi_message/holi_images/34.jpg",
+    "http://www.andiwiniosapps.in/holi_message/holi_images/35.jpg",
+    "http://www.andiwiniosapps.in/holi_message/holi_images/36.jpg",
+    "http://www.andiwiniosapps.in/holi_message/holi_images/37.jpg",
+    "http://www.andiwiniosapps.in/holi_message/holi_images/38.jpg",
+    "http://www.andiwiniosapps.in/holi_message/holi_images/39.jpg",
+    "http://www.andiwiniosapps.in/holi_message/holi_images/40.jpg",
+    "http://www.andiwiniosapps.in/holi_message/holi_images/41.jpg",
+    "http://www.andiwiniosapps.in/holi_message/holi_images/42.jpg",
+    "http://www.andiwiniosapps.in/holi_message/holi_images/43.jpg",
+    "http://www.andiwiniosapps.in/holi_message/holi_images/44.jpg",
+    "http://www.andiwiniosapps.in/holi_message/holi_images/45.jpg",
+    
+    
+    
+    
+    
+  ];
+}
